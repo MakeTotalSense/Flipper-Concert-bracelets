@@ -4,6 +4,8 @@
 
 This repository contains captured sub-GHz (433.92Mhz) frames that can trigger concert hand wristbands to create a synchronized light show. The frames are intended to be used with the Flipper Zero device for experimentation and educational purposes.
 
+The frame was employed for a CrowdLED bracelet brand. However, I strongly suspect that all these companies source their bracelets from the same supplier. It's worth trying with this frame on differents brands.
+
 ## Disclaimer
 
 **Note: Do not use this code to spoil or disrupt any concert or people's experience. Respect the event organizers, performers, and the audience. The intention is purely educational and for experimentation in controlled environments.**
