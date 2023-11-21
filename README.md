@@ -12,9 +12,9 @@ This repository contains captured sub-GHz (433.92Mhz) frames that can trigger co
 
 Put these files on your flipper to play them.
 
-I captured a complete flow during a show, which was later segmented into smaller parts at home. As a result, I don't have detailed information on each individual frame.
+I captured a 30mins flow during a show, which I would like later to segment into smaller specifics parts. For now, I don't have any detailed information about it.
 
-The known captured frames include:
+The captured frame include:
 
 * Turn off
 * Blink red
@@ -22,11 +22,12 @@ The known captured frames include:
 * Rainbow
 * Maybe something else
 
-Please feel free to provide additional details after testing them so that I can put a releveant name on these files.
+Please feel free to provide additional details after testing it so that I can put a releveant name on the future segmented files.
 
 
 ## Disclaimer of Responsibility
 I am not responsible for any negative consequences resulting from the use or misuse of these files. Users are advised to adhere to ethical guidelines and respect the rights and experiences of others.
 
 ## Contributions
-Contributions are welcome! If you have new radio frames, feel free to fork the repository and submit a pull request.
+Contributions are welcome! If you want to help me to segment this one big file into smaller and specific one, that would be really appreciated.
+If you have new radio frames, feel free to fork the repository and submit a pull request.
