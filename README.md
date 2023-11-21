@@ -28,9 +28,9 @@ Please feel free to provide additional details after testing it so that I can pu
 
 
 ## Disclaimer of Responsibility
-I am not responsible for any negative consequences resulting from the use or misuse of these files. Users are advised to adhere to ethical guidelines and respect the rights and experiences of others.
+I am not responsible for any negative consequences resulting from the use or misuse of these files. Users are advised to follow the ethical guidelines and respect the rights and experiences of others.
 
 ## Contributions
-Contributions are welcome! If you want to help me to segment this one big file into smaller and specific one, that would be really appreciated.
+Contributions are welcome! If you want to help me to segment this one big file into smaller and specifics ones, that would be really appreciated.
 
 If you have new radio frames, feel free to fork the repository and submit a pull request.
